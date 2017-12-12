@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit 93f6e3ecd4219c13aea780c1968a64dab6f17527
 Author: Oscar Feliz Lucas <oscarfelizlucas@hotmail.com>
 Date:   Tue Dec 12 16:46:30 2017 +0100
@@ -39,3 +40,7 @@ Author: jmFernandezMola <33038448+jmFernandezMola@users.noreply.github.com>
 Date:   Mon Oct 23 20:58:44 2017 +0200
 
     Initial commit
+=======
+# Fitxer-de-prova
+Primera prova al GitHub
+>>>>>>> 39b66e8b269041a2d665ec4c3c10f9fe2945d0a4
