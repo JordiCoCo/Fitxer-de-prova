@@ -8,3 +8,5 @@ Salut!
 Txema
 
 Modificat per Oscar
+
+Modificat per segona vegada per Oscar després d'haver-ho pujat al github una primera vegada
