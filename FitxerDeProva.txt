@@ -10,3 +10,5 @@ Txema
 Modificat per Oscar
 
 Modificat per segona vegada per Oscar després d'haver-ho pujat al github una primera vegada
+
+Modificat de nou per no haver afegit el README
