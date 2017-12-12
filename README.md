@@ -1,3 +1,9 @@
+commit 93f6e3ecd4219c13aea780c1968a64dab6f17527
+Author: Oscar Feliz Lucas <oscarfelizlucas@hotmail.com>
+Date:   Tue Dec 12 16:46:30 2017 +0100
+
+    creado log
+
 commit 48dae1798eb8d0a2377a2442e926249ab99810ba
 Author: Oscar Feliz Lucas <oscarfelizlucas@hotmail.com>
 Date:   Tue Dec 12 16:45:31 2017 +0100
